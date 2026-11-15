@@ -82,8 +82,3 @@ git checkout -b feature/new-forensic-heuristic
 3. Push to your fork and submit a Pull Request against the `main` branch.
 4. Describe the specific payroll scenarios tested, including synthetic edge cases or schema variants tested against.
 
----
-
-## Security Vulnerabilities
-
-If you identify a security flaw or unhandled edge case that could lead to financial miscalculation or data leakage, please report it directly to Majid Mumtaz via LinkedIn (https://www.linkedin.com/in/majid-m-4b097118/) or email `majid@veritux.com`.
