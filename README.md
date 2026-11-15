@@ -9,7 +9,7 @@
 
 Continuous controls monitoring (CCM) and forensic variance analytics engine designed to replace manual, 20-employee sample audits with 100% population reconciliation across comparative corporate payroll registers.
 
-Developed by **Majid Mumtaz** (CIA, ACA, FCCA, GRCP, GRCA, COSO ERM Certified) under the Veritux Consulting Network banner.
+
 
 ---
 
@@ -229,22 +229,9 @@ The engine incorporates fuzzy string matching across raw ERP column headers, all
 | Bank IBAN | `bank_iban`, `iban`, `account_number`, `bank_account`, `account_no`, `bank_acc` |
 
 ---
+.
 
-## Contributing
 
-Contributions from internal audit directors, forensic accountants, and data engineers are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on code style, testing requirements, and the pull request submission process.
-
----
-
-## Author & Advisory Context
-
-Designed and maintained by **Majid Mumtaz** (CIA, ACA, FCCA, GRCP, GRCA, COSO ERM Certified).
-
-- Professional Profile: [LinkedIn](https://www.linkedin.com/in/majid-m-4b097118/)
-- Thought Leadership & Tools: [Portfolio](https://majidrajpar.github.io/portfolio_my)
-- Advisory Network: Veritux Consulting Network
-
-For enterprise continuous controls monitoring implementations, ERP connectors (SAP, Oracle Cloud, Workday, Dynamics), or forensic investigation retainers, contact via LinkedIn or directly through the Veritux portal.
 
 ---
 
