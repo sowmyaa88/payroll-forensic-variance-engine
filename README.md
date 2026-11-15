@@ -5,7 +5,6 @@
 [![CI Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Architecture](https://img.shields.io/badge/architecture-Zero--Infrastructure%20CLI-orange.svg)]()
 [![Excel Security](https://img.shields.io/badge/Excel-100%25%20Macro--Free%20(.xlsx)-success.svg)]()
-[![Advisory](https://img.shields.io/badge/Advisory-Veritux%20Consulting%20Network-navy.svg)](https://www.linkedin.com/in/majid-m-4b097118/)
 
 Continuous controls monitoring (CCM) and forensic variance analytics engine designed to replace manual, 20-employee sample audits with 100% population reconciliation across comparative corporate payroll registers.
 
@@ -228,13 +227,3 @@ The engine incorporates fuzzy string matching across raw ERP column headers, all
 | Net Pay | `net_pay`, `net_salary`, `net`, `take_home`, `total_net`, `net_payable`, `transfer_amount` |
 | Bank IBAN | `bank_iban`, `iban`, `account_number`, `bank_account`, `account_no`, `bank_acc` |
 
----
-.
-
-
-
----
-
-## License
-
-This software is released under the [MIT License](LICENSE). Copyright (c) 2026 Majid Mumtaz (Veritux Consulting Network).
